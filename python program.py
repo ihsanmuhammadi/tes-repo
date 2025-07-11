@@ -5,3 +5,5 @@ def greet(name):
 
 if __name__ == "__main__":
     greet("World, third time")
+    greet("World, third time")
+    greet("World, third time")
